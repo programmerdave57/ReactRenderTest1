@@ -1,2 +1,2 @@
 # ReactRenderTest1
- Simple tests to explore how rendering works
+ Simple tests to explore how React rendering works
