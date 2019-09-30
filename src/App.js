@@ -1,14 +1,14 @@
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 
-import RenderTestApp from './components/RenderTestApp.js';
+import AppRenderTest from './components/AppRenderTest';
 
 import './App.css';
 
 function App() {
   return (
     <BrowserRouter>
-      <RenderTestApp />
+      <AppRenderTest />
     </BrowserRouter>
   );
 }
